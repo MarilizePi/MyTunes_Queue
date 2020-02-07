@@ -1,0 +1,11 @@
+lounge,Solo
+road trip,Tom's Diner
+road trip,Here With Me
+lounge,Nuvole Bianche
+lounge,Luka
+road trip,Get Happy
+road trip,Let's Dance
+road trip,Oh What a Feeling
+road trip,Separate Ways (Worlds Apart)
+road trip,Road Home
+lounge,Traffic
